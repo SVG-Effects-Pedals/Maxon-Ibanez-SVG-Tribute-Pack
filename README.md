@@ -7,3 +7,4 @@ This work is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 Intern
 
 ![AD-9](https://michaelck.github.io/Maxon-Ibanez-SVG-Tribute-Pack/ad-9.svg)
 ![TS-9](https://michaelck.github.io/Maxon-Ibanez-SVG-Tribute-Pack/ts-9.svg)
+![CS-9](https://michaelck.github.io/Maxon-Ibanez-SVG-Tribute-Pack/cs-9.svg)
